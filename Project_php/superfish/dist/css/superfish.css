@@ -13,7 +13,6 @@
 	top: 100%;
 	left: 0;
 	z-index: 99;
-	background:#242424;
 }
 .sf-menu > li {
 	float: left;
@@ -55,7 +54,7 @@
 	color: #13a;
 }
 .sf-menu li {
-	/*background: #BDD2FF;*/
+	background: #BDD2FF;
 	white-space: nowrap; /* no need for Supersubs plugin */
 	*white-space: normal; /* ...unless you support IE7 (let it wrap) */
 	-webkit-transition: background .2s;
@@ -69,7 +68,7 @@
 }
 .sf-menu li:hover,
 .sf-menu li.sfHover {
-	background: none;
+	background: #CFDEFF;
 	/* only transition out, not in */
 	-webkit-transition: none;
 	transition: none;
