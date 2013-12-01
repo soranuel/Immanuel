@@ -53,7 +53,7 @@
                 <li><a href="Komentar.php" class="last">About Us</a>
                 	<ul>
                         <li><a href="#">Biodata</a></li>
-                        <li><a href="#">The Team</a></li>
+                        <li><a href="theteam.php">The Team</a></li>
                     </ul>
                 </li>
 			</ul>
@@ -163,17 +163,17 @@ Berikut tahapan-tahapan untuk melakukan </p>
             	<h2>Recent Post</h2>
                 	<div class="rp_box">
                     	<img src="images/baby.png" /><p>Mana yang lebih berat? Diare pada anak-anak atau diare pada bayi?</p>
-                        <a href="#" class="more float_r"><span>&gt;&gt;</span> Read More</a>
+                        <a href="diareanak.php" class="more float_r"><span>&gt;&gt;</span> Read More</a>
                         <div class="cleaner"></div>
                     </div>
                     <div class="rp_box">
                     	<img src="images/lukagores.png" /><p>Pertolongan Pertama Luka Gores</p>
-                        <a href="#" class="more float_r"><span>&gt;&gt;</span> Read More</a>
+                        <a href="luka_iris.php" class="more float_r"><span>&gt;&gt;</span> Read More</a>
                     	<div class="cleaner"></div>
                     </div>
                     <div class="rp_box">
                     	<img src="images/Obesity.png" /><p>Lebih Jauh tentang Obesitas</p>
-                        <a href="#" class="more float_r"><span>&gt;&gt;</span> Read More</a>
+                        <a href="obesitas.php" class="more float_r"><span>&gt;&gt;</span> Read More</a>
                         <div class="cleaner"></div>
                     </div>
             </div>
